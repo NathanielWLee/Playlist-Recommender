@@ -1,6 +1,12 @@
 # tune-link
 ## AI Capstone Final Project
 
+
+
+https://github.com/user-attachments/assets/146f970d-3d71-417d-b716-a4163177d059
+
+
+
 ## Installing:
 ### 1. Python packages for Django:
     If using python3:
