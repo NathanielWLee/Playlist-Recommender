@@ -1,0 +1,21 @@
+.options-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .option-button {
+    margin: 5px;
+    border-radius: 25px;
+    padding: 8px;
+    border-color: #191414;
+    background: transparent;
+    text-align: center;
+  }
+
+  .option-button:hover{
+    background-color: #1db760;
+  }
+
+  .option-button:focus{
+    background-color: #1db954;
+  }
